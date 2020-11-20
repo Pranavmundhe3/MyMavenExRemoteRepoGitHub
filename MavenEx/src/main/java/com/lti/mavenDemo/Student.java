@@ -1,4 +1,5 @@
-package com.lti.mavenDemo
+package com.lti.mavenDemo;
+
 public class Student
 {
 
